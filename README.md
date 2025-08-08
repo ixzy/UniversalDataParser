@@ -1,6 +1,6 @@
-# UniDataParser
+# UniversalDataParser
 
-UniDataParser is a versatile log parsing tool designed to search and extract information, such as URLs, usernames, and passwords, from log files. It provides a user-friendly web interface for efficient log analysis.
+UniversalDataParser is a versatile log parsing tool designed to search and extract information, such as URLs, usernames, and passwords, from log files. It provides a user-friendly web interface for efficient log analysis.
 
 ## Features
 
@@ -41,9 +41,5 @@ UniDataParser is a versatile log parsing tool designed to search and extract inf
 Feel free to contribute, report issues, or suggest improvements! Check out the [Contributing Guidelines](CONTRIBUTING.md).
 
 
-## Acknowledgments
 
-- [Typed.js](https://github.com/mattboldt/typed.js/) - A JavaScript library for animated text.
-- [Bootstrap](https://getbootstrap.com/) - Used for basic styling and responsive design.
-
-Happy parsing!
+xD
